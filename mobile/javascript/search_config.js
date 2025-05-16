@@ -1,1 +1,1 @@
-﻿var textForPages = ["CEK BARCODE                                      SMAN 1 SUMBEREJO"];
+﻿var textForPages = ["","","","","","","","","","","","","","","","","","","There's a vintage                                                      which comes with age                                                       and experience.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","PAGE 56","","","","","","","","","","","",""];
